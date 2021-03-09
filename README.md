@@ -1,2 +1,3 @@
-# playing-with-swarm
-Swarm practice repository
+# Playing with Docker Swarm
+
+Docker Swarm practice repository
